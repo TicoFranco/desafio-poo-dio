@@ -1,5 +1,3 @@
-import br.com.dio.desafio.models.Funcionario;
-import br.com.dio.desafio.models.Gerente;
 import br.com.dio.desafio.models.Sistema;
 
 import java.util.InputMismatchException;
